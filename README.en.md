@@ -92,8 +92,8 @@ Lordfilm App for Windows, Android and Android TV: desktop client, APK releases, 
 
 ## Support
 
-- [Support](SUPPORT.md)
-- [Discussions setup](DISCUSSIONS.md)
-- [Changelog](CHANGELOG.md)
-- [Security](SECURITY.md)
-- [Rights holders](RIGHTSHOLDERS.md)
+- [Support](https://github.com/lordfilm-app/lordfilm/discussions/categories/q-a)
+- [Discussions](https://github.com/lordfilm-app/lordfilm/discussions)
+- [Changelog](https://github.com/lordfilm-app/lordfilm/releases)
+- [Security](https://github.com/lordfilm-app/lordfilm/security/policy)
+- [Rights holders](https://github.com/lordfilm-app/lordfilm/blob/main/RIGHTSHOLDERS.md)
