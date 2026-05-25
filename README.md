@@ -5,15 +5,14 @@
 <h1 align="center">Lordfilm App</h1>
 
 <p align="center">
-  <strong>RU:</strong> удобный клиент Lordfilm для Windows, Android и Android TV.<br>
-  <strong>EN:</strong> a simple Lordfilm client for Windows, Android, and Android TV.
+  Удобный клиент Lordfilm для Windows, Android и Android TV.
 </p>
 
 <p align="center">
   <a href="https://now.smotret-lordfilm.cam/">Web</a> ·
-  <a href="https://github.com/lordfilm-app/lordfilm/releases">Download</a> ·
-  <a href="https://github.com/lordfilm-app/lordfilm/discussions">Community</a> ·
-  <a href="SUPPORT.md">Support</a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases">Скачать</a> ·
+  <a href="https://github.com/lordfilm-app/lordfilm/discussions">Сообщество</a> ·
+  <a href="README.en.md">English</a>
 </p>
 
 <p align="center">
@@ -27,7 +26,7 @@
   <img src="docs/preview.png" alt="Lordfilm App preview">
 </p>
 
-## Скачать · Download
+## Скачать
 
 | Платформа | Файл |
 |----------|------|
@@ -38,9 +37,7 @@
 
 Все установочные файлы публикуются в [Releases](https://github.com/lordfilm-app/lordfilm/releases).
 
-All installers are available in [Releases](https://github.com/lordfilm-app/lordfilm/releases).
-
-## Возможности · Features
+## Возможности
 
 - Windows-приложение с быстрым запуском и автообновлениями.
 - APK для Android-смартфонов.
@@ -48,17 +45,26 @@ All installers are available in [Releases](https://github.com/lordfilm-app/lordf
 - Веб-версия для быстрого входа без установки.
 - Release notes и checksums для каждой версии.
 
+## Обсуждения
+
+- [Анонсы](https://github.com/lordfilm-app/lordfilm/discussions/categories/announcements) — новости и релизы.
+- [Помощь](https://github.com/lordfilm-app/lordfilm/discussions/categories/q-a) — установка, запуск и вопросы по приложению.
+- [Android TV](https://github.com/lordfilm-app/lordfilm/discussions/categories/q-a) — TV-версия, пульт, фокус и масштаб.
+- [Идеи](https://github.com/lordfilm-app/lordfilm/discussions/categories/ideas) — предложения по улучшениям.
+- [Общее](https://github.com/lordfilm-app/lordfilm/discussions/categories/general) — впечатления и обратная связь.
+- [Голосования](https://github.com/lordfilm-app/lordfilm/discussions/categories/polls) — что улучшить в следующих версиях.
+
 ## Android через Obtainium
 
 Можно добавить приложение в [Obtainium](https://github.com/ImranR98/Obtainium), чтобы получать уведомления о новых APK.
 
-Repo URL:
+URL репозитория:
 
 ```text
 https://github.com/lordfilm-app/lordfilm
 ```
 
-APK filters:
+APK-фильтры:
 
 ```text
 Phone: lordfilm-android-.*\.apk
@@ -83,11 +89,10 @@ TV:    lordfilm-android-tv-.*\.apk
 
 Lordfilm App — приложение для Windows, Android и Android TV: удобный клиент, APK-релизы, Android TV build, веб-версия, обновления через GitHub Releases.
 
-Lordfilm App for Windows, Android and Android TV: desktop client, APK releases, Android TV build, web version, and release notes on GitHub.
+## Поддержка
 
-## Поддержка · Support
-
-- [Support](SUPPORT.md)
+- [Поддержка](SUPPORT.md)
+- [Категории Discussions](DISCUSSIONS.md)
 - [Changelog](CHANGELOG.md)
 - [Security](SECURITY.md)
-- [Rights holders](RIGHTSHOLDERS.md)
+- [Правообладателям](RIGHTSHOLDERS.md)
