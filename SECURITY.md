@@ -15,8 +15,6 @@ Report security issues privately. Do not open a public issue for vulnerabilities
 - Installers and APK release artifacts
 - Release metadata and support docs
 
-It does not host media content or streaming sources.
-
 ---
 
 ## RU
@@ -33,5 +31,3 @@ It does not host media content or streaming sources.
 
 - Установщики и APK
 - Метаданные релизов и документация поддержки
-
-Медиаконтент и источники потоков здесь не публикуются.
