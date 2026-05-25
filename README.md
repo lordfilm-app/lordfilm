@@ -9,17 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://now.smotret-lordfilm.cam/">Web</a> ·
-  <a href="https://github.com/lordfilm-app/lordfilm/releases">Скачать</a> ·
-  <a href="https://github.com/lordfilm-app/lordfilm/discussions">Сообщество</a> ·
-  <a href="README.en.md">English</a>
+  <a href="https://now.smotret-lordfilm.cam/"><img src="https://img.shields.io/badge/Web-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/badge/Скачать-238636?style=for-the-badge&logo=github&logoColor=white" alt="Скачать"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/discussions"><img src="https://img.shields.io/badge/Сообщество-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Сообщество"></a>
+  <img src="https://img.shields.io/badge/🇷🇺-RU-DC2626?style=for-the-badge" alt="Русский">
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧-EN-374151?style=for-the-badge" alt="English"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/github/v/release/lordfilm-app/lordfilm?label=release" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/Windows-111827?logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Android-111827?logo=android&logoColor=3DDC84" alt="Android">
-  <img src="https://img.shields.io/badge/Android%20TV-111827?logo=googletv&logoColor=white" alt="Android TV">
+  <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/github/v/release/lordfilm-app/lordfilm?style=for-the-badge&label=release&logo=github" alt="Latest release"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/LORDFILM-Setup-0.0.9.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white" alt="Windows"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-1.0.9.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-tv-0.0.1.apk"><img src="https://img.shields.io/badge/Android%20TV-009688?style=for-the-badge&logo=android&logoColor=white" alt="Android TV"></a>
 </p>
 
 <p align="center">
