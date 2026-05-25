@@ -9,17 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://now.smotret-lordfilm.cam/">Web</a> ·
-  <a href="https://github.com/lordfilm-app/lordfilm/releases">Download</a> ·
-  <a href="https://github.com/lordfilm-app/lordfilm/discussions">Community</a> ·
-  <a href="README.md">Русский</a>
+  <a href="https://now.smotret-lordfilm.cam/"><img src="https://img.shields.io/badge/Web-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/badge/Download-238636?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/discussions"><img src="https://img.shields.io/badge/Community-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Community"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺-RU-374151?style=for-the-badge" alt="Русский"></a>
+  <img src="https://img.shields.io/badge/🇬🇧-EN-2563EB?style=for-the-badge" alt="English">
 </p>
 
 <p align="center">
-  <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/github/v/release/lordfilm-app/lordfilm?label=release" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/Windows-111827?logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Android-111827?logo=android&logoColor=3DDC84" alt="Android">
-  <img src="https://img.shields.io/badge/Android%20TV-111827?logo=googletv&logoColor=white" alt="Android TV">
+  <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/github/v/release/lordfilm-app/lordfilm?style=for-the-badge&label=release&logo=github" alt="Latest release"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/LORDFILM-Setup-0.0.9.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white" alt="Windows"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-1.0.9.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-tv-0.0.1.apk"><img src="https://img.shields.io/badge/Android%20TV-009688?style=for-the-badge&logo=android&logoColor=white" alt="Android TV"></a>
 </p>
 
 <p align="center">
@@ -28,14 +29,14 @@
 
 ## Download
 
-| Platform | File |
-|----------|------|
-| Windows | `Lordfilm-Setup-*.exe` |
-| Android | `lordfilm-android-*.apk` |
-| Android TV | `lordfilm-android-tv-*.apk` |
+| Platform | Download |
+|----------|----------|
+| Windows | [LORDFILM-Setup-0.0.9.exe](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/LORDFILM-Setup-0.0.9.exe) |
+| Android | [lordfilm-android-1.0.9.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-1.0.9.apk) |
+| Android TV | [lordfilm-android-tv-0.0.1.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-tv-0.0.1.apk) |
 | Web | [now.smotret-lordfilm.cam](https://now.smotret-lordfilm.cam/) |
 
-All installers are available in [Releases](https://github.com/lordfilm-app/lordfilm/releases).
+All versions and checksums are available in [Releases](https://github.com/lordfilm-app/lordfilm/releases).
 
 ## Features
 
