@@ -2,7 +2,7 @@
   <img src="docs/logo.png" width="96" alt="Lordfilm App logo">
 </p>
 
-<h1 align="center">Lordfilm App</h1>
+<h1 align="center">Lordfilm</h1>
 
 <p align="center">
   A simple Lordfilm client for Windows, Android, and Android TV.
