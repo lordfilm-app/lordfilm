@@ -2,7 +2,7 @@
   <img src="docs/logo.png" width="96" alt="Lordfilm App logo">
 </p>
 
-<h1 align="center">Lordfilm</h1>
+<h1 align="center">Lordfilm App</h1>
 
 <p align="center">
   Удобный клиент Lordfilm для Windows, Android и Android TV.
@@ -28,14 +28,14 @@
 
 ## Скачать
 
-| Платформа | Файл |
-|----------|------|
-| Windows | `Lordfilm-Setup-*.exe` |
-| Android | `lordfilm-android-*.apk` |
-| Android TV | `lordfilm-android-tv-*.apk` |
+| Платформа | Скачать |
+|----------|---------|
+| Windows | [LORDFILM-Setup-0.0.9.exe](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/LORDFILM-Setup-0.0.9.exe) |
+| Android | [lordfilm-android-1.0.9.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-1.0.9.apk) |
+| Android TV | [lordfilm-android-tv-0.0.1.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.9/lordfilm-android-tv-0.0.1.apk) |
 | Web | [now.smotret-lordfilm.cam](https://now.smotret-lordfilm.cam/) |
 
-Все установочные файлы публикуются в [Releases](https://github.com/lordfilm-app/lordfilm/releases).
+Все версии и checksums доступны в [Releases](https://github.com/lordfilm-app/lordfilm/releases).
 
 ## Возможности
 
