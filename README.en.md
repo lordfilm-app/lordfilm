@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/github/v/release/lordfilm-app/lordfilm?style=for-the-badge&label=release&logo=github" alt="Latest release"></a>
-  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.10/LORDFILM-Setup-0.0.10.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white" alt="Windows"></a>
-  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.10/lordfilm-android-1.0.10.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
-  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.10/lordfilm-android-tv-0.0.3.apk"><img src="https://img.shields.io/badge/Android%20TV-009688?style=for-the-badge&logo=android&logoColor=white" alt="Android TV"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.11/LORDFILM-Setup-0.0.11.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white" alt="Windows"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.11/lordfilm-android-1.0.11.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.11/lordfilm-android-tv-0.0.4.apk"><img src="https://img.shields.io/badge/Android%20TV-009688?style=for-the-badge&logo=android&logoColor=white" alt="Android TV"></a>
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 | Platform | Download |
 |----------|----------|
-| Windows | [LORDFILM-Setup-0.0.10.exe](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.10/LORDFILM-Setup-0.0.10.exe) |
-| Android | [lordfilm-android-1.0.10.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.10/lordfilm-android-1.0.10.apk) |
-| Android TV | [lordfilm-android-tv-0.0.3.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.10/lordfilm-android-tv-0.0.3.apk) |
+| Windows | [LORDFILM-Setup-0.0.11.exe](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.11/LORDFILM-Setup-0.0.11.exe) |
+| Android | [lordfilm-android-1.0.11.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.11/lordfilm-android-1.0.11.apk) |
+| Android TV | [lordfilm-android-tv-0.0.4.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.11/lordfilm-android-tv-0.0.4.apk) |
 | Web | [now.smotret-lordfilm.cam](https://now.smotret-lordfilm.cam/) |
 
 All versions and checksums are available in [Releases](https://github.com/lordfilm-app/lordfilm/releases).
