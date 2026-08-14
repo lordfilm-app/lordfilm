@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/github/v/release/lordfilm-app/lordfilm?style=for-the-badge&label=release&logo=github" alt="Latest release"></a>
-  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/LORDFILM-Setup-0.0.12.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white" alt="Windows"></a>
+  <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/LORDFILM-Setup-0.0.13.exe"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white" alt="Windows"></a>
   <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/lordfilm-android-1.0.12.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   <a href="https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/lordfilm-android-tv-0.0.5.apk"><img src="https://img.shields.io/badge/Android%20TV-009688?style=for-the-badge&logo=android&logoColor=white" alt="Android TV"></a>
 </p>
@@ -31,7 +31,7 @@
 
 | Platform | Download |
 |----------|----------|
-| Windows | [LORDFILM-Setup-0.0.12.exe](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/LORDFILM-Setup-0.0.12.exe) |
+| Windows | [LORDFILM-Setup-0.0.13.exe](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/LORDFILM-Setup-0.0.13.exe) |
 | Android | [lordfilm-android-1.0.12.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/lordfilm-android-1.0.12.apk) |
 | Android TV | [lordfilm-android-tv-0.0.5.apk](https://github.com/lordfilm-app/lordfilm/releases/download/v1.0.12/lordfilm-android-tv-0.0.5.apk) |
 | Web | [now.smotret-lordfilm.cam](https://now.smotret-lordfilm.cam/) |
