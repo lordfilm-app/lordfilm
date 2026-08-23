@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://now.smotret-lordfilm.cam/" target="_blank"><img src="https://img.shields.io/badge/Web-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
+  <a href="https://www.rustore.ru/catalog/app/com.example.lordfilm"><img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" alt="Скачать в RuStore"></a>
   <a href="https://github.com/lordfilm-app/lordfilm/releases"><img src="https://img.shields.io/badge/Скачать-238636?style=for-the-badge&logo=github&logoColor=white" alt="Скачать"></a>
   <a href="https://github.com/lordfilm-app/lordfilm/discussions"><img src="https://img.shields.io/badge/Сообщество-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Сообщество"></a>
   <img src="https://img.shields.io/badge/🇷🇺-RU-DC2626?style=for-the-badge" alt="Русский">
